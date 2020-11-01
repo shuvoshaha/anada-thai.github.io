@@ -1,0 +1,68 @@
+/* Header
+=====================*/
+.header{
+ background-image: url(../img/circles-light.png) ;
+ padding: 1rem 0;
+}
+
+.nav-item:not(:last-child){
+ margin-right: 2rem;
+}
+
+.nav-link{
+ text-transform: uppercase;
+ letter-spacing: 1px;
+ color: #ce2f2f !important;
+ font-size: 1.0625rem;
+ font-weight: 600;
+ text-decoration: none;
+ transition: 0.2s ease-out;
+}
+
+.nav-link:hover{
+ color: #da6f6f !important;
+}
+
+.dropdown-item{
+ text-transform: uppercase;
+ letter-spacing: 1px;
+ color: #ce2f2f !important;
+ font-size: 1.0625rem;
+ font-weight: 600;
+ text-decoration: none;
+ transition: 0.2s ease-out;
+}
+
+.dropdown-item:hover{
+ color: #da6f6f !important;
+ background-color: transparent !important;
+}
+
+/* Main
+===================*/
+
+.product-slider-img{
+ width: 100%;
+ height: 86vh;
+ object-fit: cover;
+}
+
+/*company-mission 
+=======================*/
+.company-mission {
+
+}
+
+.company-mission-title{
+
+}
+
+.company-details{
+ text-align: CENTER;
+ color: rgb(205, 158, 67);
+ font-size: 24px;
+}
+
+.para{
+
+}
